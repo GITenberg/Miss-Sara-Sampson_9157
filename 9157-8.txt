@@ -14,6 +14,7 @@ Author: Gotthold Ephraim Lessing
 Posting Date: October 12, 2014 [EBook #9157]
 Release Date: October, 2005
 First Posted: September 9, 2003
+Last Updated: October 30, 2016
 
 Language: German
 
@@ -702,7 +703,7 @@ Marwood.  Ihm selbst?
 Hannah.  Seinem Bedienten.
 
 Marwood.  Kaum kann ich es erwarten, was er für Wirkung haben wird.--
-Scheine ich dir nicht ein wenig unruhig, Hannah?  Ich hin es auch.--
+Scheine ich dir nicht ein wenig unruhig, Hannah?  Ich bin es auch.--
 Der Verräter!  Doch gemach!  Zornig muß ich durchaus nicht werden.
 Nachsicht, Liebe, Bitten sind die einzigen Waffen, die ich wider ihn
 brauchen darf, wo ich anders seine schwache Seite recht kenne.
@@ -907,7 +908,7 @@ werdet.  Wir mögen närrisch oder vernünftig, weltlich oder geistlich
 gesinnet sein: wir verlieren unsere Mühe, euch beständig zu machen,
 einmal wie das andre.  Du wirst an deine schöne Heilige die Reihe Zeit
 genug kommen lassen.  Soll ich wohl einen kleinen Überschlag machen?
-Nun eben bist du im heftigsten Paroxysmo mit ihr; und diesem geh ich
+Nun eben bist du im heftigsten Paroxysmo mit ihr; und diesem geb ich
 noch zwei, aufs längste drei Tage.  Hierauf wird eine ziemlich
 geruhige Liebe folgen; der geb ich acht Tage.  Die andern acht Tage
 wirst du nur gelegentlich an diese Liebe denken.  Die dritten wirst du
@@ -1139,7 +1140,7 @@ Mellefont.  Was sagen Sie?
 Marwood.  Erwarten Sie nur ruhig seine Ankunft und lassen sich gegen
 die Miß nichts merken.  Ich will Sie selbst jetzt nicht länger
 aufhalten.  Gehen Sie wieder zu ihr; sie möchte Verdacht bekommen.
-Doch versprach ich mir, Sie heute noch einmal zu sehen.
+Doch versprech ich mir, Sie heute noch einmal zu sehen.
 
 Mellefont.  O Marwood, mit was für Gesinnungen kam ich zu Ihnen und
 mit welchen muß ich Sie verlassen!  Einen Kuß, meine liebe Bella--
@@ -1269,7 +1270,7 @@ Mellefont.  Bleiben Sie, Bella.  (Indem er sie zurückhalten will.)
 
 Marwood.  Nur keine Gewalt, Mellefont, oder--
 
-(Hannah und Arabella geben ab.)
+(Hannah und Arabella gehen ab.)
 
 
 
@@ -1853,7 +1854,7 @@ Sara.  Ach!--Rede weiter, Waitwell, rede weiter!
 
 Waitwell.  Ich weiß wohl, es gibt eine Art von Leuten, die nichts
 ungerner als Vergebung annehmen, und zwar, weil sie keine zu erzeigen
-gelernt haben.  Es sind stolze, unbiegsam Leute, die durchaus nicht
+gelernt haben.  Es sind stolze, unbiegsame Leute, die durchaus nicht
 gestehen wollen, daß sie unrecht getan.  Aber von der Art, Miß, sind
 Sie nicht.  Sie haben das liebreichste und zärtlichste Herz, das die
 beste Ihres Geschlechts nur haben kann.  Ihren Fehler bekennen Sie
@@ -2299,7 +2300,7 @@ Innersten sich noch etwas regt, das ihm keinen Glauben beimessen will.-
 -Was ist es, dieses rebellische Etwas?
 
 Mellefont.  Dieses Etwas, liebste Sara, wie Sie schon selbst gesagt
-haben, ist die natürliche furchtsam Schwierigkeit, sich in ein großes
+haben, ist die natürliche furchtsame Schwierigkeit, sich in ein großes
 Glück zu finden.--Ach, Ihr Herz machte weniger Bedenken, sich
 unglücklich zu glauben, als es jetzt zu seiner eignen Pein macht, sich
 für glücklich zu halten!--Aber wie dem, der in einer schnellen
@@ -3397,7 +3398,7 @@ Sie, wenn Arabella meine kindliche Ehrfurcht, meine vertrauliche Liebe,
 meine sorgsame Freundschaft um die Wette beschäftigen werden!
 Glückliche Tage!  Aber ach!--sie sind noch fern in der Zukunft.--Doch
 vielleicht weiß auch die Zukunft nichts von ihnen, und sie sind bloß
-in meiner Begierde noch Glück!--Empfindungen, Mellefont, nie gefühlte
+in meiner Begierde nach Glück!--Empfindungen, Mellefont, nie gefühlte
 Empfindungen wenden meine Augen in eine andre Aussicht!  Eine dunkle
 Aussicht in ehrfurchtsvolle Schatten!--Wie wird mir?--(Indem sie die
 Hand vors Gesicht hält.)
@@ -3712,7 +3713,7 @@ Sara.  Ich will es nicht wissen, und es ist mir schon zu viel, daß ich
 es argwöhnen kann.
 
 Mellefont.  Sie müssen es wissen; denn wer könnte mir dafür stehen,
-daß Sie nicht falsch argwöhnten?  Dies schreibst Marwood.  (Er lieset.)
+daß Sie nicht falsch argwöhnten?  Dies schreibet Marwood.  (Er lieset.)
 "Wenn Sie diesen Zettel lesen werden, Mellefont, wird Ihre Untreue
 in dem Anlasse derselben schon bestraft sein.  Ich hatte mich ihr
 entdeckt, und vor Schrecken war sie in Ohnmacht gefallen.  Betty gab
@@ -3751,7 +3752,7 @@ nicht erlaubt sein, mit seiner Liebe als mit einem Erbteile umzugehen?
 Ich vermache diese väterliche Liebe Ihnen und Arabellen.  Reden Sie
 dann und wann mit ihr von einer Freundin, aus deren Beispiele sie
 gegen alle Liebe auf ihrer Hut zu sein lerne.--Den letzten Segen, mein
-Vater!--Wer wollte die Fügungen des Höchsten zu richten wage?
+Vater!--Wer wollte die Fügungen des Höchsten zu richten wagen?
 --Tröste deinen Herrn, Waitwell.  Doch auch du stehst in einem
 trostlosen Kummer vergraben, der du in mir weder Geliebte noch Tochter
 verlierest?--
@@ -3814,7 +3815,7 @@ steht bei mir!  (Er ersticht sich und fällt an dem Stuhle der Sara
 nieder.)
 
 Sir William.  Halt ihn, Waitwell!--Was für ein neuer Streich auf mein
-gebeugtes Haupt!--Oh!  wenn das dritte hier erkältende Herz das meine
+gebeugtes Haupt!--Oh!  wenn das dritte hier erkaltende Herz das meine
 wäre!
 
 Mellefont (sterbend).  Ich fühl es--daß ich nicht fehlgestoßen habe!--
